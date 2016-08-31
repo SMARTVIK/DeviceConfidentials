@@ -107,3 +107,4 @@ public class ItemFragment extends Fragment {
         void onListFragmentInteraction(DummyItem item);
     }
 }
+//git merge --strategy=ours --no-commit master
