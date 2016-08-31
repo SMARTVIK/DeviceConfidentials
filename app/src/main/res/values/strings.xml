@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DeviceConfidential</string>
+    <string name="title_activity_sticky_headers">StickyHeadersActivity</string>
 </resources>
